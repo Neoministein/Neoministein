@@ -45,13 +45,13 @@ Small games made within couple of days based on a theme
 
 Using a SteamVR Headset and Unity you are able to record your motion data and export it to programms like Blender.
   
-<img src="https://media.discordapp.net/attachments/579364834114666506/808514930079694919/unknown.png" alt="Moction to blender" style="width:300px;"/>
+<img src="img/mocap.png" alt="Moction to blender" style="width:300px;"/>
 
 ### DIY V-Tuber Software 
 
 Using my Motion Capture Recording Software I integrated a 3d model with which you now have virtual avatar mimicing the motion. This can be used for recoring or live broadcasts with a virutal avatar.
   
-<img src="https://media.discordapp.net/attachments/441323778111176704/934117251152482394/unknown.png" alt="Moction Capture in Unity" style="width:300px;"/>
+<img src="img/V-Tuber_Software.png" alt="Moction Capture in Unity" style="width:300px;"/>
   
  #### It is dengerous to go alone here take this: 
 <img src="https://c.tenor.com/0UPw9RZF_cAAAAAC/pop-cat.gif" alt="popcat gif" style="width:50px;"/>
