@@ -40,6 +40,7 @@ It also provides features as:
 Small games made within couple of days based on a theme
 
 - Theme: Joined Together -> [Dungeon of Trovas](https://siliwan.itch.io/the-dungeon-of-trovas)
+- Theme: Sacrifice -> [Power Please!](https://neoministein.itch.io/power-please)
   
 ### Motion Capture Recording
 
