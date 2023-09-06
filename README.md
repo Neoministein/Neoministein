@@ -13,7 +13,7 @@
 <Br>
 <Br>
     
-## Public projects
+## Public Repositories
 
 ### Parkguidance 
   
@@ -33,14 +33,15 @@ It also provides features as:
 <Br>
 <Br>
   
-## Private projects
+## Private Repositories
 
 ### Unity Game Jam Project
 
 Small games made within couple of days based on a theme
 
-- Theme: Joined Together -> [Dungeon of Trovas](https://siliwan.itch.io/the-dungeon-of-trovas)
-- Theme: Sacrifice -> [Power Please!](https://neoministein.itch.io/power-please)
+- **Theme:** Joined Together -> [Dungeon of Trovas](https://siliwan.itch.io/the-dungeon-of-trovas)
+- **Theme:** Sacrifice -> [Power Please!](https://neoministein.itch.io/power-please)
+- **Theme:** Harmless Weapons -> [Brewmaster's Potion Express](https://fuchsiano.itch.io/brewmasters-potion-express)
   
 ### Motion Capture Recording
 
