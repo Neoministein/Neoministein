@@ -43,6 +43,7 @@ Small games made within couple of days based on a theme
 - **Theme:** Sacrifice -> [Power Please!](https://neoministein.itch.io/power-please)
 - **Theme:** Harmless Weapons -> [Brewmaster's Potion Express](https://fuchsiano.itch.io/brewmasters-potion-express)
 - **Theme:** Charm -> [Charmed Infiltration](https://neoministein.itch.io/charmed-infiltration)
+- **Theme:** Built to Scale -> [Galactic Construction](https://aragami-delp.itch.io/galactic-construction)
   
 ### Motion Capture Recording
 
