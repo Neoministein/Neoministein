@@ -44,6 +44,7 @@ Small games made within couple of days based on a theme
 - **Theme:** Harmless Weapons -> [Brewmaster's Potion Express](https://fuchsiano.itch.io/brewmasters-potion-express)
 - **Theme:** Charm -> [Charmed Infiltration](https://neoministein.itch.io/charmed-infiltration)
 - **Theme:** Built to Scale -> [Galactic Construction](https://aragami-delp.itch.io/galactic-construction)
+- **Theme:** Polarity -> [Play Upgrade Repeat](https://neoministein.itch.io/play-upgrade-repeat)
   
 ### Motion Capture Recording
 
