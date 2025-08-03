@@ -45,7 +45,8 @@ Small games made within couple of days based on a theme
 - **Theme:** Charm -> [Charmed Infiltration](https://neoministein.itch.io/charmed-infiltration)
 - **Theme:** Built to Scale -> [Galactic Construction](https://aragami-delp.itch.io/galactic-construction)
 - **Theme:** Polarity -> [Play Upgrade Repeat](https://neoministein.itch.io/play-upgrade-repeat)
-  
+- **Theme:** Loop -> [Play Upgrade Repeat](https://neoministein.itch.io/play-upgrade-repeat)
+
 ### Motion Capture Recording
 
 Using a SteamVR Headset and Unity you are able to record your motion data and export it to programms like Blender.
