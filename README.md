@@ -45,7 +45,7 @@ Small games made within couple of days based on a theme
 - **Theme:** Charm -> [Charmed Infiltration](https://neoministein.itch.io/charmed-infiltration)
 - **Theme:** Built to Scale -> [Galactic Construction](https://aragami-delp.itch.io/galactic-construction)
 - **Theme:** Polarity -> [Play Upgrade Repeat](https://neoministein.itch.io/play-upgrade-repeat)
-- **Theme:** Loop -> [Play Upgrade Repeat](https://neoministein.itch.io/play-upgrade-repeat)
+- **Theme:** Loop -> [Blizzard Bison Breakout](https://neoministein.itch.io/blizzard-bison-breakout)
 
 ### Motion Capture Recording
 
