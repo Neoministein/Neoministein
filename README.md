@@ -46,6 +46,7 @@ Small games made within couple of days based on a theme
 - **Theme:** Built to Scale -> [Galactic Construction](https://aragami-delp.itch.io/galactic-construction)
 - **Theme:** Polarity -> [Play Upgrade Repeat](https://neoministein.itch.io/play-upgrade-repeat)
 - **Theme:** Loop -> [Blizzard Bison Breakout](https://neoministein.itch.io/blizzard-bison-breakout)
+- **Theme** Mask -> [Slay with Layer](https://neoministein.itch.io/slay-with-layer)
 
 ### Motion Capture Recording
 
